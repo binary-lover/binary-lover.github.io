@@ -43,7 +43,7 @@ const Navbar = () => {
       <nav className="container mx-auto flex items-center justify-between px-4 py-4">
         <Link to="/" className="flex items-center space-x-2 font-bold">
           <Terminal className="h-6 w-6 text-primary" />
-          <span className="text-xl font-mono tracking-tight">SecPortfolio</span>
+          <span className="text-xl font-mono tracking-tight">b1n4ryl0v3r</span>
         </Link>
 
         {/* Desktop Menu */}

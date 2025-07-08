@@ -17,7 +17,7 @@ const Home = () => {
                   <span className="font-mono">Ethical Hacker | SOC Analyst | Web Penetration Tester</span>
                 </div>
                 <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
-                  Cybersecurity <span className="text-primary text-glow">Professional</span>
+                  Mozahidul <span className="text-primary text-glow">Islam</span>
                 </h1>
                 <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Protecting digital infrastructures through ethical hacking, security analysis, and advanced penetration testing techniques.
@@ -60,6 +60,7 @@ const Home = () => {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-background/50 rounded-lg neon-border matrix-bg">
                   <div className="absolute inset-0 flex items-center justify-center">
                     <Terminal className="h-16 w-16 text-primary" />
+                    
                   </div>
                   <div className="absolute bottom-4 left-4 right-4 p-4 bg-background/80 backdrop-blur-sm rounded border border-primary/20">
                     <div className="flex items-center gap-2">
@@ -138,7 +139,7 @@ const Home = () => {
                 </Link>
               </div>
             </div>
-            <div className="flex flex-col p-6 bg-background rounded-lg border neon-border">
+           <div className="flex flex-col p-6 bg-background rounded-lg border neon-border">
               <Code className="h-10 w-10 text-primary mb-4" />
               <h3 className="text-xl font-bold mb-2">Secure Code Review</h3>
               <p className="text-muted-foreground mb-4">

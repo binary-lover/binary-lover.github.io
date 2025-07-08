@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="space-y-3">
             <div className="flex items-center space-x-2">
               <Terminal className="h-5 w-5 text-primary" />
-              <h3 className="font-mono text-lg font-bold">SecPortfolio</h3>
+              <h3 className="font-mono text-lg font-bold">b1n4ryl0v3r</h3>
             </div>
             <p className="text-sm text-muted-foreground">
               Ethical hacking and cybersecurity professional specializing in penetration testing,
@@ -66,7 +66,7 @@ const Footer = () => {
         </div>
         
         <div className="mt-8 pt-6 border-t text-center text-xs text-muted-foreground">
-          <p>© {new Date().getFullYear()} SecPortfolio. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Mozahidul Islam. All rights reserved.</p>
         </div>
       </div>
     </footer>
